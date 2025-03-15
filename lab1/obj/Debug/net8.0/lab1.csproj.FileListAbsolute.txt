@@ -1,0 +1,14 @@
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/bin/Debug/net8.0/lab1
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/bin/Debug/net8.0/lab1.deps.json
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/bin/Debug/net8.0/lab1.runtimeconfig.json
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/bin/Debug/net8.0/lab1.dll
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/bin/Debug/net8.0/lab1.pdb
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/obj/Debug/net8.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/obj/Debug/net8.0/lab1.AssemblyInfoInputs.cache
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/obj/Debug/net8.0/lab1.AssemblyInfo.cs
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/obj/Debug/net8.0/lab1.csproj.CoreCompileInputs.cache
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/obj/Debug/net8.0/lab1.dll
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/obj/Debug/net8.0/refint/lab1.dll
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/obj/Debug/net8.0/lab1.pdb
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/obj/Debug/net8.0/lab1.genruntimeconfig.cache
+/Users/nazariypoptsov/Documents/NAU/2_course/Data_structures/1/lab1/lab1/obj/Debug/net8.0/ref/lab1.dll
